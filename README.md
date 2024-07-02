@@ -34,7 +34,7 @@ They are free to add as many more as they like. After the task has been added,  
 
 ![image](https://github.com/Synesthesiaa/To-Do-List/assets/106944643/9132a85a-3710-4815-adc1-b5dc95d2a19d)
 
-When they're finished, they can click "Clear all the tasks" to get rid of everything, even those that they added.
+When they're finished, they can click "Clear all the tasks" to get clear of everything, even those that they added.
 
 
 
